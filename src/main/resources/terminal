@@ -1,0 +1,2 @@
+
+    spring init --dependencies=web,data-jpa,mysql --package-name=com.waitlistsystem waitlist-system
